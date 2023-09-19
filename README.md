@@ -6,7 +6,7 @@
 ##### C110118207 葉力誠
 ###### C110118207 葉力誠
 
-# :smile: 
+# :smile: 💻
 
 ----
 
@@ -27,6 +27,12 @@ print(s)
 var s = "Javascript highlights ";
 alert(s)
 ```
+---
+Emphasism aka italicsm with asterisks or underscores
+Strong emphasis, aka boldm with **asterisks** or **underscores**
+Combined emphasis with **asterisks and underscores.**
+Strikethrough uses two tildes. ~~Scratch this.~~
+---
 
 | Tables | Are | Cool |
 | :----- | :-: | ----:|
