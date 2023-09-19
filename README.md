@@ -18,10 +18,14 @@
 - [ ] 3rd thing
 - [ ] 4th thing
 
+## Python code
+
 ```python
 s = "python highlighted syntex "
 print(s)
 ```
+
+## JS code
 
 ```js
 var s = "Javascript highlights ";
