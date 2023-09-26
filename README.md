@@ -7,9 +7,9 @@
 ###### C110118207 葉力誠
 
 # :smile: 💻
+# 😄☕⚰️
 
----
-
+----
 
 ![NKUST](logo.png "NKUST")
 
@@ -84,15 +84,3 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 | *Still*  | `rander` | **Nicely** |
 |    1     |    2     |      3 |
 |    4     |    5     |      6 |
-
-
-
-| Markdown |   Less   |     Pretty |
-|:--------|:--------:| ----------:|
-| *Still*  | `rander` | **Nicely** |
-|    1     |    2     |      3 |
-|    4     |    5     |      6 |
-
-
-
-
